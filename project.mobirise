@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "About something",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "ai": {
       "prompt": "About something",
       "imageSearchQuery": "abstract concept"
@@ -2313,11 +2313,11 @@
           "_sourceTheme": "startm5",
           "alias": false,
           "_cid": "v8bOofp4aH",
+          "_anchor": "menu02-0",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {},
-          "_anchor": "menu02-0"
+          "_params": {}
         },
         {
           "_styles": {
@@ -2393,11 +2393,11 @@
           "_sourceTheme": "startm5",
           "alias": false,
           "_cid": "v8bOofPq1Q",
+          "_anchor": "header18-1",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "header18-1"
+          "_params": {}
         },
         {
           "_styles": {
@@ -2551,11 +2551,11 @@
           "_sourceTheme": "startm5",
           "alias": false,
           "_cid": "v8bOogOG5C",
+          "_anchor": "social05-4",
           "_protectedParams": [],
           "_global": true,
           "_once": false,
-          "_params": {},
-          "_anchor": "social05-4"
+          "_params": {}
         },
         {
           "_styles": {
@@ -2643,11 +2643,11 @@
           "_sourceTheme": "startm5",
           "alias": false,
           "_cid": "v8bOogrpLt",
+          "_anchor": "features03-3",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "features03-3"
+          "_params": {}
         },
         {
           "_styles": {
@@ -2684,11 +2684,11 @@
           "_sourceTheme": "startm5",
           "alias": false,
           "_cid": "v8bOoh9Rpl",
+          "_anchor": "form02-5",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "form02-5"
+          "_params": {}
         },
         {
           "_styles": {
@@ -2771,11 +2771,11 @@
           "_sourceTheme": "startm5",
           "alias": false,
           "_cid": "v8bOohmO3t",
+          "_anchor": "contacts03-6",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "contacts03-6"
+          "_params": {}
         },
         {
           "_styles": {
@@ -2850,11 +2850,11 @@
           "_sourceTheme": "startm5",
           "alias": false,
           "_cid": "v8bOohIWnz",
+          "_anchor": "footer03-7",
           "_protectedParams": [],
           "_global": true,
           "_once": "footers",
-          "_params": {},
-          "_anchor": "footer03-7"
+          "_params": {}
         }
       ]
     },
@@ -3611,11 +3611,11 @@
           "_sourceTheme": "startm5",
           "alias": false,
           "_cid": "v8bXoaHKQa",
+          "_anchor": "menu02-8",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {},
-          "_anchor": "menu02-8"
+          "_params": {}
         },
         {
           "_styles": {
@@ -3691,11 +3691,11 @@
           "_sourceTheme": "startm5",
           "alias": false,
           "_cid": "v8bXob4B9x",
+          "_anchor": "header18-9",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "header18-9"
+          "_params": {}
         },
         {
           "_styles": {
@@ -3789,11 +3789,11 @@
           "_sourceTheme": "startm5",
           "alias": false,
           "_cid": "v8bXobiAcQ",
+          "_anchor": "people03-a",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "people03-a"
+          "_params": {}
         },
         {
           "_styles": {
@@ -3849,11 +3849,11 @@
           "_sourceTheme": "startm5",
           "alias": false,
           "_cid": "v8bXobyDB1",
+          "_anchor": "social05-b",
           "_protectedParams": [],
           "_global": true,
           "_once": false,
-          "_params": {},
-          "_anchor": "social05-b"
+          "_params": {}
         },
         {
           "_styles": {
@@ -3941,11 +3941,11 @@
           "_sourceTheme": "startm5",
           "alias": false,
           "_cid": "v8bXobLOkB",
+          "_anchor": "features03-c",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "features03-c"
+          "_params": {}
         },
         {
           "_styles": {
@@ -3982,11 +3982,11 @@
           "_sourceTheme": "startm5",
           "alias": false,
           "_cid": "v8bXoc3vKI",
+          "_anchor": "form02-d",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "form02-d"
+          "_params": {}
         },
         {
           "_styles": {
@@ -4069,11 +4069,11 @@
           "_sourceTheme": "startm5",
           "alias": false,
           "_cid": "v8bXocg3gv",
+          "_anchor": "contacts03-e",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "contacts03-e"
+          "_params": {}
         },
         {
           "_styles": {
@@ -4148,11 +4148,11 @@
           "_sourceTheme": "startm5",
           "alias": false,
           "_cid": "v8bXocxvcd",
+          "_anchor": "footer03-f",
           "_protectedParams": [],
           "_global": true,
           "_once": "footers",
-          "_params": {},
-          "_anchor": "footer03-f"
+          "_params": {}
         }
       ]
     },
@@ -4909,11 +4909,11 @@
           "_sourceTheme": "startm5",
           "alias": false,
           "_cid": "v8bXBsGdI2",
+          "_anchor": "menu02-g",
           "_protectedParams": [],
           "_global": true,
           "_once": "menu",
-          "_params": {},
-          "_anchor": "menu02-g"
+          "_params": {}
         },
         {
           "_styles": {
@@ -4989,11 +4989,11 @@
           "_sourceTheme": "startm5",
           "alias": false,
           "_cid": "v8bXBsYVgZ",
+          "_anchor": "header18-h",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "header18-h"
+          "_params": {}
         },
         {
           "_styles": {
@@ -5087,11 +5087,11 @@
           "_sourceTheme": "startm5",
           "alias": false,
           "_cid": "v8bXBtbfPs",
+          "_anchor": "people03-i",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "people03-i"
+          "_params": {}
         },
         {
           "_styles": {
@@ -5147,11 +5147,11 @@
           "_sourceTheme": "startm5",
           "alias": false,
           "_cid": "v8bXBtp1Yf",
+          "_anchor": "social05-j",
           "_protectedParams": [],
           "_global": true,
           "_once": false,
-          "_params": {},
-          "_anchor": "social05-j"
+          "_params": {}
         },
         {
           "_styles": {
@@ -5239,11 +5239,11 @@
           "_sourceTheme": "startm5",
           "alias": false,
           "_cid": "v8bXBtCi1G",
+          "_anchor": "features03-k",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "features03-k"
+          "_params": {}
         },
         {
           "_styles": {
@@ -5280,11 +5280,11 @@
           "_sourceTheme": "startm5",
           "alias": false,
           "_cid": "v8bXBtRoJV",
+          "_anchor": "form02-l",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "form02-l"
+          "_params": {}
         },
         {
           "_styles": {
@@ -5367,11 +5367,11 @@
           "_sourceTheme": "startm5",
           "alias": false,
           "_cid": "v8bXBu6miV",
+          "_anchor": "contacts03-m",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "contacts03-m"
+          "_params": {}
         },
         {
           "_styles": {
@@ -5446,11 +5446,11 @@
           "_sourceTheme": "startm5",
           "alias": false,
           "_cid": "v8bXBulHgf",
+          "_anchor": "footer03-n",
           "_protectedParams": [],
           "_global": true,
           "_once": "footers",
-          "_params": {},
-          "_anchor": "footer03-n"
+          "_params": {}
         }
       ]
     }
